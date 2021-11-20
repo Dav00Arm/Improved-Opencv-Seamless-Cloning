@@ -6,14 +6,14 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 
 ### For example 
 
-#### Source image
+##### Source image
 ![src](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/image.png)
-![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask_clone.png)
+![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask_clone.jpg)
 
-#### regular seamless clone
+##### regular seamless clone
 
 ![regular_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/normal_clone.jpg)
 
-#### Using <data_creation>
+##### Using <data_creation>
 
 ![better_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/better_clone.jpg)
