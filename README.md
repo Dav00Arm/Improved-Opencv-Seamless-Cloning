@@ -10,7 +10,7 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 ##### Source image,mask and backgorund
 ![src](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/image.png)
 ![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask_clone.jpg)
-![background](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/background.png)
+![background](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/background.jpg)
 
 #### Regular seamless clone                                   
 It performes terrible on multiple very small objects.
