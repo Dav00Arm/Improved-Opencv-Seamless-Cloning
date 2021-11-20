@@ -10,10 +10,7 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 ![src](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/image.png)
 ![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask_clone.jpg)
 
-##### regular seamless clone
+##### regular seamless clone                       Clone using <data_creation>            
 
 ![regular_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/normal_clone.jpg)
-
-##### Using <data_creation>
-
 ![better_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/better_clone.jpg)
