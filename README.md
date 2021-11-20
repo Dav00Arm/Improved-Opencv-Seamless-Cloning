@@ -13,12 +13,12 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 ![background](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/background.png)
 
 #### Regular seamless clone                                   
-It performes terrible on multiple very small masks 
+It performes terrible on multiple very small objects.
 
 ![regular_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/normal_clone.jpg)
 
 #### Clone using <data_creation>
-But this function helps to get perfectly created new image 
+But this function helps to get perfectly created new image. 
 
 ![better_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/better_clone.jpg)
 
