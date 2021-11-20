@@ -12,7 +12,7 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 ![background](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/background.png)
 
 #### regular seamless clone                                   
-It performes terrible on very small masks 
+It performes terrible on multiple very small masks 
 
 ![regular_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/normal_clone.jpg)
 
