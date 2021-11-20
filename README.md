@@ -1,4 +1,4 @@
-# Automated creation of new semantic segmentation image data with improved opencv seamless cloning
+# Automated creation of new semantic segmentation image data with improved OpenCV Seamless Cloning
 The function helps to create multiple new and perfect cloned semantic segmentation data.
 
 ### Copy the [code](https://github.com/Dav00Arm/Segmentation_masks/blob/main/Seamless_Clone.ipynb), run it, and call <data_creation> function with required arguments. 
