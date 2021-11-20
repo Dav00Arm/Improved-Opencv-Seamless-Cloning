@@ -8,7 +8,7 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 
 #### Source image
 ![src](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/image.png)
-![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask.png)
+![mask](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/mask_clone.png)
 
 #### regular seamless clone
 
@@ -16,4 +16,4 @@ While creating new image data with [Seamless Clone using Opencv](https://learnop
 
 #### Using <data_creation>
 
-![better_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/better_clone.png)
+![better_clone](https://github.com/Dav00Arm/Segmentation_masks/blob/main/images/better_clone.jpg)
